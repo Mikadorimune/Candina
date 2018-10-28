@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Candina</string>
+    <string name="dialog_login_warn">Username and/or password is incorrect</string>
+    <string name="dialog_confirm">CONFIRM</string>
+
+    <string name="gallery_feature">Featured Photos</string>
+    <string name="gallery_all">Gallery</string>
+
+    <string name="login_hint_username">username</string>
+    <string name="login_hint_password">password</string>
+    <string name="login_text">Login</string>
+
+    <string name="register_ask">Do you have an account?</string>
+    <string name="register_text">Register</string>
+
+    <string name="forgot_ask">Forgot your password?</string>
+    <string name="forgot_text">Recover</string>
+
+    <string name="logout_text">Logout</string>
+</resources>
